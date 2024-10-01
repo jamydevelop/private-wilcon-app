@@ -4,7 +4,7 @@
             "outputFile": "asia.inventi.wilcon.checklist.wilcon_checklist.app-mergeQaDebugResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/jamy/Documents/GitHub/wilcon-checklist/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/jamy/Documents/GitHub/private-wilcon-app/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

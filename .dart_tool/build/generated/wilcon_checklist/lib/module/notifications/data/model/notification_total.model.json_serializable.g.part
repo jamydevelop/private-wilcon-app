@@ -1,0 +1,16 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+_$NotificationTotalModelImpl _$$NotificationTotalModelImplFromJson(
+        Map<String, dynamic> json) =>
+    _$NotificationTotalModelImpl(
+      totalCountUnreadNotification:
+          (json['totalCountUnreadNotification'] as num).toInt(),
+    );
+
+Map<String, dynamic> _$$NotificationTotalModelImplToJson(
+        _$NotificationTotalModelImpl instance) =>
+    <String, dynamic>{
+      'totalCountUnreadNotification': instance.totalCountUnreadNotification,
+    };

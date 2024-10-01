@@ -1,0 +1,1 @@
+ /Users/jamy/Documents/GitHub/private-wilcon-app/.dart_tool/flutter_build/f24a51370a56d2c6309fc68754b15479/native_assets.yaml: 

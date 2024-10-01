@@ -1,9 +1,9 @@
-#Tue Oct 01 12:43:18 PST 2024
-base.0=/Users/jamy/Documents/GitHub/wilcon-checklist/build/app/intermediates/dex/qaDebug/mergeExtDexQaDebug/classes.dex
-base.1=/Users/jamy/Documents/GitHub/wilcon-checklist/build/app/intermediates/dex/qaDebug/mergeLibDexQaDebug/0/classes.dex
-base.2=/Users/jamy/Documents/GitHub/wilcon-checklist/build/app/intermediates/dex/qaDebug/mergeProjectDexQaDebug/0/classes.dex
-base.3=/Users/jamy/Documents/GitHub/wilcon-checklist/build/app/intermediates/dex/qaDebug/mergeProjectDexQaDebug/1/classes.dex
-base.4=/Users/jamy/Documents/GitHub/wilcon-checklist/build/app/intermediates/dex/qaDebug/mergeProjectDexQaDebug/7/classes.dex
+#Wed Oct 02 00:20:19 PST 2024
+base.0=/Users/jamy/Documents/GitHub/private-wilcon-app/build/app/intermediates/dex/qaDebug/mergeExtDexQaDebug/classes.dex
+base.1=/Users/jamy/Documents/GitHub/private-wilcon-app/build/app/intermediates/dex/qaDebug/mergeLibDexQaDebug/0/classes.dex
+base.2=/Users/jamy/Documents/GitHub/private-wilcon-app/build/app/intermediates/dex/qaDebug/mergeProjectDexQaDebug/0/classes.dex
+base.3=/Users/jamy/Documents/GitHub/private-wilcon-app/build/app/intermediates/dex/qaDebug/mergeProjectDexQaDebug/1/classes.dex
+base.4=/Users/jamy/Documents/GitHub/private-wilcon-app/build/app/intermediates/dex/qaDebug/mergeProjectDexQaDebug/7/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex

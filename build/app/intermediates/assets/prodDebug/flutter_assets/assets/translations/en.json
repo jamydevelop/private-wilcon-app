@@ -1,0 +1,14 @@
+{
+    "home": {
+        "label": "You have pushed the button this many times:",
+        "incrementButtonToolTip": "Increment",
+        "generatePageButton": "Generate Page"
+    },
+    "randomString": {
+        "title": "Random Text Generator",
+        "generateButton": "Generate",
+        "error": "Something went wrong. Please try again later.",
+        "initial": "Click the button to generate new text",
+        "loading": "loading..."
+    }
+}
